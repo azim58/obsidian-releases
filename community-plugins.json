@@ -1,5 +1,12 @@
 [
   {
+    "id": "link-hints",
+    "name": "Link Hints",
+    "author": "Kurt Whittemore",
+    "description": "Navigate your vault without a mouse using keyboard-based hints for all clickable elements.",
+    "repo": "azim58/link-hints"
+  },
+  {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
     "author": "Argentina Ortega Sainz",
